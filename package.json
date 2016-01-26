@@ -1,0 +1,19 @@
+{
+  "name": "check-broken-resources",
+  "version": "0.0.0",
+  "description": "A simple CasperJS / PhantomJS script that identifies broken resources in a given list of urls.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "casperjs index.js"
+  },
+  "keywords": [
+    "casperjs",
+    "phantomjs"
+  ],
+  "author": "Engin Arslan",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"baseUrl": "http://127.0.0.1:9003/",
+	"links": [
+		{
+			"name": "Pay",
+			"url": "pay.html"
+		},
+		{
+			"name": "Review",
+			"url": "review.html"
+		},
+		{
+			"name": "Support",
+			"url": "support.html"
+		}
+	]
+}
